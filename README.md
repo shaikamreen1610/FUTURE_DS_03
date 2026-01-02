@@ -106,11 +106,7 @@ The objective of this project is to:
 
 ## Dataset
 
-File used: [View_DataSet]
-
-```
-Student_Satisfaction_Survey.csv
-```
+File used: [Student_Satisfaction_Survey.csv](https://github.com/shaikamreen1610/FUTURE_DS_03/blob/main/Student_Satisfaction_Survey.csv)
 
 Contains:
 
